@@ -1,0 +1,56 @@
+D:\DemoMVC\MVCDemo\MVCDemo\bin\MVCDemo.dll.config
+D:\DemoMVC\MVCDemo\MVCDemo\bin\MVCDemo.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\MVCDemo.pdb
+D:\DemoMVC\MVCDemo\MVCDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\Newtonsoft.Json.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Net.Http.Formatting.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Helpers.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Http.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Http.WebHost.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Mvc.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Razor.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.WebPages.Deployment.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.WebPages.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.WebPages.Razor.dll
+D:\DemoMVC\MVCDemo\MVCDemo\bin\Newtonsoft.Json.xml
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Net.Http.Formatting.xml
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Helpers.xml
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Http.xml
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Http.WebHost.xml
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Mvc.xml
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.Razor.xml
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.WebPages.xml
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.WebPages.Deployment.xml
+D:\DemoMVC\MVCDemo\MVCDemo\bin\System.Web.WebPages.Razor.xml
+D:\DemoMVC\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csprojResolveAssemblyReference.cache
+D:\DemoMVC\MVCDemo\MVCDemo\obj\Debug\MVCDemo.dll
+D:\DemoMVC\MVCDemo\MVCDemo\obj\Debug\MVCDemo.pdb
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\MVCDemo.dll.config
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\MVCDemo.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\MVCDemo.pdb
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\Newtonsoft.Json.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Net.Http.Formatting.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Helpers.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Http.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Http.WebHost.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Mvc.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Razor.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.WebPages.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.WebPages.Razor.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\Newtonsoft.Json.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Net.Http.Formatting.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Helpers.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Http.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Http.WebHost.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Mvc.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Razor.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.WebPages.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.WebPages.Razor.xml
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csprojResolveAssemblyReference.cache
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\obj\Debug\MVCDemo.dll
+D:\Presentation and demo\MVCDemo\MVCDemo\MVCDemo\obj\Debug\MVCDemo.pdb
